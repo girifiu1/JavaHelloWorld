@@ -9,7 +9,7 @@ public class HelloWorld {
 
         ArrayList<String> myarr = new ArrayList<String>();
         myarr.add("Monsoon");
-        myarr.set(0,"Manch");
+        myarr.set(0,"Nagraj");
 
         System.out.println();
     }
